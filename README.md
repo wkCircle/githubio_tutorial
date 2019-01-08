@@ -26,8 +26,9 @@ Tutorial Step by Step
 6. Copy the web address and use incognito mode/window to test the availability of the web. 
 7. Done!
 
-`PS`
+PS</br>
 Before uploading index.html, you can firstly inspect its appearance on your local machine: just
-double click the file and your browser will show how it looks like. Notice that your pdf file and index.html should be placed at the same dir.
-`Relevant tutorial`
+double click the file and your browser will show how it looks like. Notice that your pdf file and index.html should be placed at the same dir.</br>
+
+Relevant tutorial</br>
 Ref: https://gitbook.tw/chapters/github/using-github-pages.html
