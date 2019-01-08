@@ -13,10 +13,10 @@ Tutorial Step by Step
 2. Download the index.html that I've sent to you. 
    Modify the index.html by uncommenting one of the 3 methods.
 
-3.1 If you're using Method 1 or 2: Upload your pdf file onto this repo. 
+3. A. If you're using Method 1 or 2: Upload your pdf file onto this repo. 
    (Official tutorial: https://help.github.com/articles/adding-a-file-to-a-repository/)
-
-3.2 If you're using Method 3: Upload your pdf file onto google drive. --> Double click that file --> More Actions 
+   
+   B. If you're using Method 3: Upload your pdf file onto google drive. --> Double click that file --> More Actions 
    --> Open in new window --> More Actions --> Embed item 
    --> copy & paste the html code given into index.html file to replace codes in Method3.
    
