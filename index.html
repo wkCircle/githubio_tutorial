@@ -1,16 +1,24 @@
 <!doctype html>
 <html>
 	<head>
-		<title>CV Kai</title>
+		<title>CV Kai</title> <!--會顯示在Browser的分頁標題上!-->
 	</head>
 	<body>
-		<!--<embed id="cv_kai" height="700px" width="100%" src="https://wkcircle.github.io/cv_kai.pdf" type="application/pdf" />!-->
-		<!--<object data="cv_kai.pdf" type="application/pdf" width="100%" height="700px">
-			<a href="cv_kai.pdf">cv_kai.pdf</a>
-		</object>!-->
-		<iframe src="https://github.com/wkCircle/wkCircle.github.io/blob/master/cv_kai.pdf" style="width:600px; height:500px;" frameborder="0">
-		</iframe>
-
-		<!--<p>I am paragrpah6.</p>!-->
+		<!-- Method 1: 將pdf包裝成字串並做超連結>!-->
+		<!--
+		<a href="https://wkcircle.github.io/cv_kai.pdf" tabindex="-1"><strong>click to view my cv.</strong></a>
+		!-->
+		
+		<!-- Method 2: (Github) uplaod your file into github repo and copy the address of the pdf file, and assign it to src!-->
+		<embed id="cv_kai" height="700px" width="100%" src="https://wkcircle.github.io/cv_kai.pdf" type="application/pdf" />
+		
+		
+		<!-- Method 3: (利用google document embedder): upload your file online (anywhere as long as its publicly available! Then copy the embedd code and replace with the following <iframe> codes.-->
+		<!--
+		<iframe src="https://drive.google.com/file/d/1Kjh98dwfINqhTy4qjGGnhyXdXrH6LvEL/preview"
+			style="width:100%; height:700px;" 
+			frameborder="0">
+		</iframe>!
+		-->
 	</body>
 </html>
