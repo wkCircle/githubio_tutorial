@@ -14,7 +14,7 @@ There are three methods that you can embed pdf viewer into HTML. Overview of the
 
 0. Open a browser and sign in your github account.
 
-1. Create a new repository \<username\>.github.io </br>
+1. **Create** a new repository `<username>.github.io` </br>
 &rarr; Set this repo as private/public depending on whether you want to show your files in this repo to the public or not. </br>
 &rarr; (README can be initialized or not, up to you.)</br>
 E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle.github.io"</br>
@@ -30,10 +30,10 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
 	
 	- If you're using Method 3: </br>
 	Upload your pdf file onto google drive. &rarr; Double click that file</br>
-	&rarr; More Actions &rarr; Open in new window &rarr; More Actions &rarr; Embed item</br>
-	&rarr; copy & paste the html code given into index.html file to replace codes in Method3.</br>
+	&rarr; **More Actions** &rarr; Open in new window &rarr; **More Actions** &rarr; **Embed item**</br>
+	&rarr; copy & paste the given html code into `index.html` file to replace codes in Method 3.</br>
    
-4. Upload your index.html (the file name cannot be changed.) onto your github repo.
+4. Upload your `index.html` (the file name cannot be changed.) onto your github repo.
 
 5. Under your repository name, click **Settings** &rarr; Find the **GitHub Pages** section </br> 
 &rarr; Select **master branch** in the drop-down menu under the **Source** tab &rarr; click **Save**. </br> 
