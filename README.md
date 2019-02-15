@@ -1,11 +1,12 @@
 ﻿## Basic Tutorial- Build your own website by free Github Pages
-You can build your own personal website by using github pages. In the following, I provide 3 methods to build your own website. One of the simplest way is to put your already-on-hand Reseme or CV here and show it to the public. This way, you don't need to learn HTML language since github pages reruies `index.html` to be the home page. Our task now becomes: how to show your pdf within HTML to the public?
+You can build your own personal website by using GitHub pages. In the following, I provide 3 methods to build your own website. One of the simplest way is to put your already-on-hand Reseme or CV here and show it to the public.</br>
+This way, you don't need to learn HTML language since GitHub pages reruies `index.html` to be the home page. Our task now becomes: how to show your pdf within HTML to the public?
 
 ## Let's Begin.
-To show your home page to the public, please refer to the step 2.
-There are three methods that you can embed pdf viewer into HTML. Overview of these three methods is given below.</br>
-- Method1: pdf won't appear in `index.html`. Instead, it shows strings with link to the target pdf file (use pdf.js to open).</br>
-- Method2: directly use pdf.js to view a pdf file.</br>
+To show your home page to the public, please refer to the step 2. </br>
+There are three methods that you can embed pdf viewer into HTML. Overview of these three methods is given below.
+- Method1: pdf won't appear in `index.html`. Instead, it shows strings with link to the target pdf file (use pdf.js to open).
+- Method2: directly use pdf.js to view a pdf file.
 - Method3: directly use google pdf viewer to view a pdf file.
 
 
