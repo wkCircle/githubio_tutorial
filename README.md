@@ -40,7 +40,8 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
 Then you should see the message `Your site is published at https://<username>.github.io/` under the same section. </br>
 (Official Tutorial: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
-6. **Copy** the web address in 5. and use incognito mode/window to test the availability of the web. Then you're done! 
+6. **Copy** the web address in 5. and use incognito mode/window to test the availability of the web. Then you're done! </br>
+E.g., my demo web site would be [this](https://wkCircle.github.io/).
 
 ## Tips
 - Before uploading your `index.html`, you can firstly inspect its appearance on your local machine: </br>
