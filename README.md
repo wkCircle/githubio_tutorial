@@ -17,15 +17,14 @@ There are three methods that you can embed pdf viewer into HTML. Overview of the
 1. Create a new repository \<username\>.github.io </br>
 &rarr; Set this repo as private/public depending on whether you want to show your files in this repo to the public or not. </br>
 &rarr; (README can be initialized or not, up to you.)</br>
-Note: E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle.github.io"</br>
+E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle.github.io"</br>
 (Ofiicial Tutorial: https://help.github.com/articles/create-a-repo/)
-
 
 2. Download my repo and open the file `index.html`. </br>
    Modify the `index.html` by uncommenting one of the 3 methods.
 
-3. <!----!>
-	- If you're using Method 1 or 2: Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
+3. ..
+- If you're using Method 1 or 2: Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
 	(Official tutorial: https://help.github.com/articles/adding-a-file-to-a-repository/) </br>
 	- If you're using Method 3: </br>
 	Upload your pdf file onto google drive. &rarr; Double click that file</br>
