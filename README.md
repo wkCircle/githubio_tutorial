@@ -24,8 +24,10 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
    Modify the `index.html` by uncommenting one of the 3 methods.
 
 3. ..
-- If you're using Method 1 or 2: Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
+	- If you're using Method 1 or 2: </br>
+	Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
 	(Official tutorial: https://help.github.com/articles/adding-a-file-to-a-repository/) </br>
+	
 	- If you're using Method 3: </br>
 	Upload your pdf file onto google drive. &rarr; Double click that file</br>
 	&rarr; More Actions &rarr; Open in new window &rarr; More Actions &rarr; Embed item</br>
