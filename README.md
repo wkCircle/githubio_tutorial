@@ -20,32 +20,32 @@ There are three methods that you can embed pdf viewer into HTML. Overview of the
 E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle.github.io"</br>
 (Ofiicial Tutorial: https://help.github.com/articles/create-a-repo/)
 
-2. Download my repo and open the file `index.html`. </br>
-   Modify the `index.html` by uncommenting one of the 3 methods.
+2. **Download** my repo and open the file `index.html`. </br>
+   **Modify** the `index.html` by uncommenting one of the 3 methods.
 
 3. ..
 	- If you're using Method 1 or 2: </br>
-	Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
+	**Upload** your pdf file onto your own repo, namely `<usename>.github.io` </br> 
 	(Official tutorial: https://help.github.com/articles/adding-a-file-to-a-repository/) </br>
 	
 	- If you're using Method 3: </br>
-	Upload your pdf file onto google drive. &rarr; Double click that file</br>
+	**Upload** your pdf file onto google drive. &rarr; **Double click** that file</br>
 	&rarr; **More Actions** &rarr; Open in new window &rarr; **More Actions** &rarr; **Embed item**</br>
-	&rarr; Copy & paste the given html code into `index.html` file to replace codes in Method 3.</br>
+	&rarr; **Copy & paste** the given html code into `index.html` file to replace codes in Method 3.</br>
    
-4. Upload your `index.html` (the file name cannot be changed.) onto your github repo.
+4. **Upload** your `index.html` (the file name cannot be changed.) onto your github repo.
 
 5. Under your repository name, click **Settings** &rarr; Find the **GitHub Pages** section </br> 
 &rarr; Select **master branch** in the drop-down menu under the **Source** tab &rarr; click **Save**. </br> 
 Then you should see the message `Your site is published at https://<username>.github.io/` under the same section. </br>
 (Official Tutorial: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
-6. Copy the web address in 5. and use incognito mode/window to test the availability of the web. 
+6. **Copy** the web address in 5. and use incognito mode/window to test the availability of the web. 
 
 7. Done!
 
-### Note
-- Before uploading index.html, you can firstly inspect its appearance on your local machine: </br>
+## Tips
+- Before uploading your `index.html`, you can firstly inspect its appearance on your local machine: </br>
 just double click the file and your browser will show how it looks like. </br>
 - Your pdf file and index.html should be placed at the same dir.</br>
 
