@@ -23,7 +23,7 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
 2. Download my repo and open the file `index.html`. </br>
    Modify the `index.html` by uncommenting one of the 3 methods.
 
-3. ..
+3. </br>
 	- If you're using Method 1 or 2: </br>
 	Upload your pdf file onto your own repo, namely `<usename>.github.io` </br> 
 	(Official tutorial: https://help.github.com/articles/adding-a-file-to-a-repository/) </br>
@@ -37,7 +37,7 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
 
 5. Under your repository name, click **Settings** &rarr; Find the **GitHub Pages** section </br> 
 &rarr; Select **master branch** in the drop-down menu under the **Source** tab &rarr; click **Save**. </br> 
-Then you should see the message <font color=green>Your site is published at https://\<username\>.github.io/</font> under the same section. </br>
+Then you should see the message <font color=Green>Your site is published at https://\<username\>.github.io/</font> under the same section. </br>
 (Official Tutorial: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 6. Copy the web address in 5. and use incognito mode/window to test the availability of the web. 
