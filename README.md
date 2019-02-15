@@ -37,7 +37,7 @@ E.g., my github ID is "wkCircle", so I should create a repo with name: "wkCircle
 
 5. Under your repository name, click **Settings** &rarr; Find the **GitHub Pages** section </br> 
 &rarr; Select **master branch** in the drop-down menu under the **Source** tab &rarr; click **Save**. </br> 
-Then you should see the message `Your site is published at https://<username>.github.io/` under the same section. </br>
+Then you should see the message <font color=green>`Your site is published at https://<username>.github.io/`</font> under the same section. </br>
 (Official Tutorial: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 6. Copy the web address in 5. and use incognito mode/window to test the availability of the web. 
@@ -45,7 +45,6 @@ Then you should see the message `Your site is published at https://<username>.gi
 7. Done!
 
 ### Note
-####Note
 - Before uploading index.html, you can firstly inspect its appearance on your local machine: </br>
 just double click the file and your browser will show how it looks like. </br>
 - Your pdf file and index.html should be placed at the same dir.</br>
